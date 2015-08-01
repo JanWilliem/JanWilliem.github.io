@@ -83,11 +83,9 @@ a.name {
 }
 .main .site .logo {
   margin: 0 auto;
-  width: 80px;
-  border-radius: 80px;
+  width: 200px;
   background-size: cover;
   background-repeat: no-repeat;
-  border: 1px #eee solid;
 }
 .main .site .title {
   margin: 0;
